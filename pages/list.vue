@@ -74,18 +74,23 @@ export default Vue.extend({
 .done {
   text-decoration: line-through;
 }
+
 ul {
   margin-top: 1rem;
 }
+
 li {
   margin: 1rem 0 1rem 0;
 }
+
 input {
   border: 1px solid #ccc;
 }
+
 span#old {
   margin-right: 2rem;
 }
+
 .btn {
   margin-top: 2rem;
   margin-left: 1rem;
